@@ -1,5 +1,23 @@
 {
-  "is_enabled": false,
-  "isEnabled": false,
-  "enabled": false
+  "type_download_resources_3": {
+    "rustore": "default",
+    "google_play": "default",
+    "site": "default"
+  },
+  "download_size_without_confirm": 100,
+  "is_enabled_recovery": false,
+  "is_enabled_check_resources": false,
+  "candidate_versions": {
+    "rustore": 16,
+    "google_play": 16,
+    "site": 16
+  },
+  "download_speed_limit": 0,
+  "download_timeout": 30000,
+  "connection_timeout": 30000,
+  "ab_test": {
+    "rustore": 0,
+    "google_play": 0,
+    "site": 0
+  }
 }
